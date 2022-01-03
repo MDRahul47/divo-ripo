@@ -9,16 +9,15 @@
     font-size: medium;
     text-align: center;
 }
-.div{
-    background-color: aqua;
-    height: 400px;
+.div:hover{
+    background-color: blueviolet;
+    color: black;
+    height: 700px;
     width: 100%;
 }
 .red{
     background-color: chartreuse;
 }
 
-.div :hover{
-    background-color: blueviolet;
-    color: black;
+.div 
 }
