@@ -9,3 +9,13 @@
     font-size: medium;
     text-align: center;
 }
+.div{
+    background-color: aqua;
+    height: 400px;
+    width: 100%;
+}
+
+.div :hover{
+    background-color: blueviolet;
+    color: black;
+}
